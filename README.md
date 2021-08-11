@@ -1,4 +1,4 @@
-# CS61A-Intro-to-Computer-Programs
+# Introduction to Computer Programs
 ## Coursework for CS61A: Structure and Interpretation of Computer Programs
   
 
